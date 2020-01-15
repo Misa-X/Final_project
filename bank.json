@@ -1,0 +1,47 @@
+{
+    "bankname": "FNB Bank",
+    "Customers": {
+        "manuela": {
+            "Firstname": "manuela",
+            "Lastname": "moiane",
+            "Pass": "m123",
+            "balance": 43000.0
+        },
+        "aurelio": {
+            "Firstname": "aurelio",
+            "Lastname": "silva",
+            "Pass": "a123",
+            "balance": 1138000.0
+        },
+        "shiraz": {
+            "Firstname": "shiraz",
+            "Lastname": "yothasse",
+            "Pass": "s123",
+            "balance": 87000.0
+        },
+        "auman": {
+            "Firstname": "auman",
+            "Lastname": "nhiko",
+            "Pass": "n123",
+            "balance": 110000.0
+        },
+        "bagus": {
+            "Firstname": "bagus",
+            "Lastname": "manuaba",
+            "Pass": "b123",
+            "balance": 100000
+        },
+        "misa": {
+            "Firstname": "misa",
+            "Lastname": "xirinda",
+            "Pass": "misa1",
+            "balance": 15000.0
+        },
+        "milton": {
+            "Firstname": "milton",
+            "Lastname": "pondeca",
+            "Pass": "milton123",
+            "balance": 0
+        }
+    }
+}
